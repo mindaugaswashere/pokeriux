@@ -1,0 +1,62 @@
+{
+	"cards": {
+		"club": [
+			{
+				"name": "2",
+				"img": "../images/cards/club_2.svg"
+			},
+			{
+				"name": "3",
+				"img": "../images/cards/club_3.svg"
+			},
+			{
+				"name": "4",
+				"img": "../images/cards/club_4.svg"
+			},
+			{
+				"name": "5",
+				"img": "../images/cards/club_5.svg"
+			},
+			{
+				"name": "6",
+				"img": "../images/cards/club_6.svg"
+			},
+			{
+				"name": "7",
+				"img": "club_7.svg"
+			},
+			{
+				"name": "8",
+				"img": "../images/cards/Playing_card_club_8.svg"
+			},
+			{
+				"name": "9",
+				"img": "../images/cards/Playing_card_club_9.svg"
+			},
+			{
+				"name": "10",
+				"img": "../images/cards/Playing_card_club_10.svg"
+			},
+			{
+				"name": "A",
+				"img": "../images/cards/Playing_card_club_A.svg"
+			},
+			{
+				"name": "J",
+				"img": "../images/cards/Playing_card_club_J.svg"
+			},
+			{
+				"name": "K",
+				"img": "../images/cards/Playing_card_club_K.svg"
+			},
+			{
+				"name": "Q",
+				"img": "../images/cards/Playing_card_club_Q.svg"
+			}
+		],
+		"diamond": {},
+		"spade": {},
+
+		"heart": {}
+	}
+}
